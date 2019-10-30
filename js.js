@@ -12,6 +12,7 @@ for(var i=0;i<row;i++){
     }
     result+="</tr>";
 }
+//hej
 
 $("#mulls").html(result);
 var time=2000;
